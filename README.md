@@ -1,0 +1,4 @@
+workStandard
+============
+
+Project rules
